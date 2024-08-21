@@ -1,0 +1,4 @@
+repository "TestTast_GardenOfDreams@Cocojomb@cloud"
+  path "/"
+    br "/main"
+    co "/main"
